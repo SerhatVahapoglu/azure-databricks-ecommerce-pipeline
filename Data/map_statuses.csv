@@ -1,0 +1,6 @@
+status_id,status_name
+100,Sipariş Alındı
+101,Hazırlanıyor
+102,Kuryede
+103,Teslim Edildi
+104,İptal Edildi

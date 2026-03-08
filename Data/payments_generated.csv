@@ -1,0 +1,10 @@
+﻿payment_id,order_id,attempt_no,payment_method,installment_count,payment_status,paid_amount,currency,payment_timestamp,card_bank,is_refund,fraud_flag,order_value,city_id,customer_name
+62358071-cc03-4d31-b46f-bb216a0f6cd4,82f15209-ac92-42f3-a19a-fb449827f5be,1,credit_card,2,success,4976.08,TRY,2026-03-08T19:26:26.418000+00:00,VakıfBank,0,0,4976.08,2,Havali Ülker Akdeniz
+b8384bb7-d729-48b5-8b6f-6aed63b4c53e,0ba3e68d-0ac8-42f9-8c8e-15f210a4b26e,1,credit_card,1,success,4097.39,TRY,2026-03-08T21:23:06.404000+00:00,Akbank,0,0,4097.39,3,Ahsen Tarhan
+ec3c4fb7-ae37-4859-8c7f-9b44dd3b6fb9,345c9063-423b-426a-be19-abfcaf608c81,1,credit_card,12,success,3202.38,TRY,2026-03-08T19:40:31.400000+00:00,QNB Finansbank,0,0,3202.38,1,Soydaner Zorlu
+def9d7c0-27d8-4792-929f-4c817899b85d,fec13c6b-7bb1-4625-9b8f-d2ffc4f666f1,1,credit_card,9,success,4558.0,TRY,2026-03-08T20:36:56.977000+00:00,QNB Finansbank,0,0,4558.0,1,Yrd. Doç. Hafıza Simten Yıldırım
+1efcea09-d3eb-4b30-b7cb-57cbf62935e3,16497a4a-1cde-451c-9548-b06394c4c5db,1,digital_wallet,1,success,2148.18,TRY,2026-03-08T21:17:04.861000+00:00,,0,0,2148.18,2,Gündüzalp Hançer
+2cc627ad-ce05-4610-9412-7f77564259d4,a066b795-c127-4741-8324-dbe27a5d250e,1,credit_card,6,failed,3521.11,TRY,2026-03-08T20:32:31.749000+00:00,Ziraat Bankası,0,0,4588.95,3,Satıa Sakarya
+780abd18-8a1f-4912-bbfd-c8a170289f17,97ba70f0-b2ee-4808-811d-bf25545f9c11,1,cash_on_delivery,1,success,3829.47,TRY,2026-03-08T19:25:16.859000+00:00,,0,0,3829.47,3,Azettin Duran
+a92218bd-f37c-45af-9eea-840b4b5fcab7,849478cf-e565-4270-808b-ef5f2c9ac664,1,credit_card,2,pending,2273.82,TRY,2026-03-08T21:59:55.968000+00:00,Garanti BBVA,0,0,2273.82,5,Yrd. Doç. Niğmet Gülkadın Yorulmaz Soylu
+bfc23cab-e93b-421b-a04d-4b9598b7e109,849478cf-e565-4270-808b-ef5f2c9ac664,2,credit_card,2,success,2273.82,TRY,2026-03-08T20:02:06.968000+00:00,VakıfBank,0,0,2273.82,5,Yrd. Doç. Niğmet Gülkadın Yorulmaz Soylu

@@ -1,0 +1,9 @@
+status_id,city_id,order_id,customer_name,order_value,order_timestamp,city_name,status_name
+100,2,82f15209-ac92-42f3-a19a-fb449827f5be,Havali Ülker Akdeniz,4976.08,2026-03-08T18:58:43.418Z,Ankara,Sipariş Alındı
+100,3,0ba3e68d-0ac8-42f9-8c8e-15f210a4b26e,Ahsen Tarhan,4097.39,2026-03-08T18:58:54.404Z,İzmir,Sipariş Alındı
+100,1,345c9063-423b-426a-be19-abfcaf608c81,Soydaner Zorlu,3202.38,2026-03-08T18:58:47.400Z,İstanbul,Sipariş Alındı
+100,1,fec13c6b-7bb1-4625-9b8f-d2ffc4f666f1,Yrd. Doç. Hafıza Simten Yıldırım,4558,2026-03-08T18:58:50.977Z,İstanbul,Sipariş Alındı
+100,2,16497a4a-1cde-451c-9548-b06394c4c5db,Gündüzalp Hançer,2148.18,2026-03-08T18:58:57.861Z,Ankara,Sipariş Alındı
+100,3,a066b795-c127-4741-8324-dbe27a5d250e,Satıa Sakarya,4588.95,2026-03-08T18:58:55.749Z,İzmir,Sipariş Alındı
+100,3,97ba70f0-b2ee-4808-811d-bf25545f9c11,Azettin Duran,3829.47,2026-03-08T18:58:52.859Z,İzmir,Sipariş Alındı
+100,5,849478cf-e565-4270-808b-ef5f2c9ac664,Yrd. Doç. Niğmet Gülkadın Yorulmaz Soylu,2273.82,2026-03-08T18:58:56.968Z,Antalya,Sipariş Alındı

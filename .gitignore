@@ -1,0 +1,15 @@
+venv/
+.venv/
+__pycache__/
+*.pyc
+.env
+.DS_Store
+.ipynb_checkpoints/
+
+# local export / temp files
+*.log
+*.tmp
+
+# secrets / configs
+secrets.json
+config.local.py
